@@ -11,5 +11,8 @@
   "repository": {
     "type": "git",
     "url": "#"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
   }
 }
